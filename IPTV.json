@@ -572,6 +572,469 @@
     "category": "General",
     "logo": "",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd"
+  },
+  
+  {
+    "id": "nhk-bs",
+    "name": "NHK BS",
+    "category": "News",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/20/NHK_BS_Premium_2011.svg/revision/latest?cb=20240718143008",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "nick-jr",
+    "name": "Nick Jr",
+    "category": "Kids",
+    "logo": "https://i.imgur.com/4MozyqM.png",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "anc",
+    "name": "ANC",
+    "category": "News",
+    "logo": "https://i.imgur.com/Bcu69bU.png",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "cctv4",
+    "name": "CCTV4",
+    "category": "News",
+    "logo": "https://i.imgur.com/HBisPOA.png",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1235993277645&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=36FNJHET6H5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "gnn",
+    "name": "GNN",
+    "category": "News",
+    "logo": "https://i.imgur.com/m6EFnqh.png",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1521078532205&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EP8Z20BUC89XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "solarflix",
+    "name": "Solarflix",
+    "category": "Movies",
+    "logo": "https://i.imgur.com/OgBDJ75.png",
+    "url": "http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "celestial-classic-movies",
+    "name": "Celestial Classic Movies",
+    "category": "Movies",
+    "logo": "https://i.imgur.com/4JCkzjl.png",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8jImOa2AKrqwa1m%2FJfhceytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1537952098663&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WEF0S27HC1HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "dzmm-teleradyo",
+    "name": "DZMM Teleradyo",
+    "category": "News",
+    "logo": "https://i.imgur.com/npj41pk.png",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "jeepney-tv",
+    "name": "Jeepney TV",
+    "category": "Entertainment",
+    "logo": "https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "myx-philippines",
+    "name": "MYX Philippines",
+    "category": "Music",
+    "logo": "https://i.imgur.com/CIPTNnT.png",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "thrill",
+    "name": "THRILL",
+    "category": "Movies",
+    "logo": "https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "cinemo",
+    "name": "Cinemo!",
+    "category": "Movies",
+    "logo": "https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "kix",
+    "name": "KIX",
+    "category": "Movies",
+    "logo": "https://i.imgur.com/B8Fmzer.png",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "metro-channel",
+    "name": "Metro Channel",
+    "category": "Lifestyle",
+    "logo": "https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "cinema-one",
+    "name": "Cinema One",
+    "category": "Movies",
+    "logo": "https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "kapamilya-channel-hd",
+    "name": "Kapamilya Channel HD",
+    "category": "Entertainment",
+    "logo": "https://i.imgur.com/WcYS3S3.png",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "tap-movies",
+    "name": "Tap Movies",
+    "category": "Movies",
+    "logo": "https://i.imgur.com/3RVA5mV.png",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "tap-action-flix",
+    "name": "Tap Action Flix",
+    "category": "Movies",
+    "logo": "https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "cltv-36",
+    "name": "CLTV 36",
+    "category": "General",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814"
+  },
+  {
+    "id": "radio-maria",
+    "name": "Radio Maria",
+    "category": "Live TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Un5_BaTlKCiwEIH0RM1Kf2uuEWs7tC7rRQ&s",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "xingkong",
+    "name": "Xingkong",
+    "category": "Live TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzEmFZaNE5sKGd0-VsgK4zyJms0kvnA_ZIQ&s",
+    "url": "http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "knowledge-channel",
+    "name": "Knowledge Channel",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/UIqEr2y.png",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "al-jazeera",
+    "name": "Al Jazeera",
+    "category": "Live TV",
+    "logo": "https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1546142827579&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2USMKY0PXD5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "edge-sports",
+    "name": "Edge Sports",
+    "category": "Live TV",
+    "logo": "https://ewsat.com/img/EDGE_SPORT.png",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "kbs-world",
+    "name": "KBS World",
+    "category": "Live TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  {
+    "id": "tvn_movies",
+    "name": "tvN Movies",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/c4XvwO2.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252" } } }
+  },
+  {
+    "id": "one",
+    "name": "One",
+    "category": "Live TV",
+    "logo": "https://i.pinimg.com/736x/68/62/cd/6862cd5ce275ab4faaa8630f25f89860.jpg",
+    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "d8fe398c79065173fa9788f226056510": "45e77e6a8ba767b63cacfdb01ef2ac29" } } }
+  },
+  {
+    "id": "tvn_premium",
+    "name": "tvN Premium",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/eE9IBhJ.png",
+    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "faf4d62bb898de503446c28fb1aa9210": "19e80ecc5d337215c64004cb49c9cb01" } } }
+  },
+  {
+    "id": "k_plus",
+    "name": "K+",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/Nd9gqA2.png",
+    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "aa48b28bd723f91214887df6ed9fad10": "b5a3a800848120c843ae0fa68c09c261" } } }
+  },
+  {
+    "id": "kbs_world_ott",
+    "name": "KBS World",
+    "category": "Live TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",
+    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "692950d39869c92af9a9ddea453c0d10": "eadc626ab959255f7ab881c03d306fe2" } } }
+  },
+  {
+    "id": "axn_hd",
+    "name": "AXN HD",
+    "category": "Live TV",
+    "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "c24a7811d9ab46b48b746a0e7e269210": "c321afe1689b07d5b7e55bd025c483ce" } } }
+  },
+  {
+    "id": "bbc_earth",
+    "name": "BBC Earth",
+    "category": "Live TV",
+    "logo": "https://imgur.com/QMB9sFW.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "dbf62ff0804bc5b8d523ef009d786310": "bb1bdb27cc5fe1ec637d257999344cc3" } } }
+  },
+  {
+    "id": "mtv_live",
+    "name": "MTV Live",
+    "category": "Live TV",
+    "logo": "https://static.epg.best/il/MTV.il.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "3ac2542a4f7be746633db07647451710": "22f964a6d6927ccdba482e775cdff190" } } }
+  },
+  {
+    "id": "bbc_world_news",
+    "name": "BBC World News",
+    "category": "Live TV",
+    "logo": "https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo-500x281.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "AXZ9HCMVwOlVb0d/sfDHEA": "d+wO6yHAeBL9fFhig2bMsw" } } }
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "category": "Live TV",
+    "logo": "http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "G2GKKRzs5EyYRd3fxP2bEA": "v34bl1VcSst0VfcRsqn/Fg" } } }
+  },
+  {
+    "id": "al_jazeera_ott",
+    "name": "Al Jazeera",
+    "category": "Live TV",
+    "logo": "https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "b1fbd0874e7923f5b05929a042aa0610": "6c3c498113abffdf454dc935319a794d" } } }
+  },
+  {
+    "id": "adult_swim",
+    "name": "Adult Swim",
+    "category": "Live TV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",
+    "url": "https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd",
+    "drm": { "clearkey": { "keys": { "cc26110bb0d29d0e4452d42602846080": "4a2e5782e26a3e2d7dd0431205c14518" } } }
+  },
+  {
+    "id": "cartoon_network",
+    "name": "Cartoon Network",
+    "category": "Live TV",
+    "logo": "https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",
+    "url": "https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd",
+    "drm": { "clearkey": { "keys": { "7ef57f7f3e8cf0efe4f3d5772a7cbb35": "0ac6d617095fbe0ca7f4c9ae72fa5f51" } } }
+  },
+  {
+    "id": "disney_channel",
+    "name": "Disney Channel",
+    "category": "Live TV",
+    "logo": "http://apkip.tv/logos/Canada/DisneyChannel.ca.png",
+    "url": "https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd",
+    "drm": { "clearkey": { "keys": { "be9caaa813c5305e761c66ac63645901": "3d40f2990ec5362ca5be3a3c9bb8f8b4" } } }
+  },
+  {
+    "id": "kapamilya_channel",
+    "name": "Kapamilya Channel",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/WcYS3S3.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd",
+    "drm": { "clearkey": { "keys": { "bd17afb5dc9648a39be79ee3634dd4b8": "3ecf305d54a7729299b93a3d69c02ea5" } } }
+  },
+  {
+    "id": "anc",
+    "name": "ANC",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/Bcu69bU.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
+    "drm": { "clearkey": { "keys": { "4bbdc78024a54662854b412d01fafa16": "6039ec9b213aca913821677a28bd78ae" } } }
+  },
+  {
+    "id": "dzmm_teleradyo",
+    "name": "DZMM TeleRadyo",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/npj41pk.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd",
+    "drm": { "clearkey": { "keys": { "47c093e0c9fd4f80839a0337da3dd876": "50547394045b3d047dc7d92f57b5fb33" } } }
+  },
+  {
+    "id": "tfc",
+    "name": "TFC",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/zZWj5vn.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd",
+    "drm": { "clearkey": { "keys": { "9568cc84e1d944f38eac304517eab6fd": "f12142af8f39b3bab79d3679d3665ebe" } } }
+  },
+  {
+    "id": "movies_now",
+    "name": "Movies Now",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/3BCg3pS.png",
+    "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
+    "drm": { "clearkey": { "keys": { "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e" } } }
+  },
+  {
+    "id": "zee_cinema",
+    "name": "Zee Cinema",
+    "category": "Live TV",
+    "logo": "https://i.imgur.com/Qy1Mcoc.png",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd",
+    "drm": { "clearkey": { "keys": { "db96483900762e233aa7830457a0d310": "20f392e5a1021be68fc32bcdb9ec3ad4" } } }
+  },
+  {
+    "id": "star-television",
+    "name": "Star Television",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/QalEBc8.jpeg",
+    "url": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "sine-plus",
+    "name": "Sine Plus",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/FeS4yxK.jpeg",
+    "url": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "hype-tv",
+    "name": "HYPE TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/NNnsdbD.jpeg",
+    "url": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "dream-tv-ph",
+    "name": "DREAM TV PH",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/9rqEsdO.jpeg",
+    "url": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "3rs-sine-pinoy",
+    "name": "3rsSinePinoy",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/OCS1l7G.jpeg",
+    "url": "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8"
+  },
+  {
+    "id": "3rs-tv",
+    "name": "3RS TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/50RyQA7.jpeg",
+    "url": "https://3rstv.elektriko4444.workers.dev/peanut.m3u8"
+  },
+  {
+    "id": "3rs-movie-box",
+    "name": "3rsMovieBox",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/b4rjf8n.png",
+    "url": "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8"
+  },
+  {
+    "id": "3rs-cartoon",
+    "name": "3rsCartoon",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/OMGlC4R.png",
+    "url": "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
+  },
+  {
+    "id": "highlights-tv",
+    "name": "HIGHLIGHTS TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/asAaM1v.jpeg",
+    "url": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "star-tv-philippines",
+    "name": "STAR TV PHILIPPINES",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/1nrklyJ.jpeg",
+    "url": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "sdtv",
+    "name": "SDTV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/ZOWTvgq.jpeg",
+    "url": "https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "philippines-tv-network",
+    "name": "PHILIPPINES TELEVISION NETWORK",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/nDPA6RL.jpeg",
+    "url": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "jpv-tv",
+    "name": "JPV TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/0F24XGc.jpeg",
+    "url": "https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8"
+  },
+  {
+    "id": "jpv-tv-24-7",
+    "name": "JPV TV (24/7)",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/0F24XGc.jpeg",
+    "url": "https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8"
+  },
+  {
+    "id": "asia-flix-tv",
+    "name": "ASIA FLIX TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/FpaSujC.jpeg",
+    "url": "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "durian-tv",
+    "name": "DURIAN TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/hT3QCdL.jpeg",
+    "url": "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "dreamstar-tv",
+    "name": "DREAMSTAR TV",
+    "category": "Collab Channels",
+    "logo": "https://i.imgur.com/yCOseiR.jpeg",
+    "url": "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "id": "ufc-tv",
+    "name": "UFC TV",
+    "category": "Collab Channels",
+    "logo": "https://iyadtv.pages.dev/images/ufc_tv_271.png",
+    "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8"
   }
-  ]
+]
+  
 
