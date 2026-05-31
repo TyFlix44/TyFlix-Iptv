@@ -78,7 +78,7 @@
   { "id": "premier_sports", "name": "Premier Sports", "category": "Sports", "logo": "https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest?cb=20210920130931", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd", "drm": { "clearkey": { "keys": { "b8b595299fdf41c1a3481fddeb0b55e4": "cd2b4ad0eb286239a4a022e6ca5fd007" } } } },
   { "id": "animax", "name": "Animax", "category": "Kids", "logo": "https://i.imgur.com/MiUDLVa.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd", "drm": { "clearkey": { "keys": { "92032b0e41a543fb9830751273b8debd": "03f8b65e2af785b10d6634735dbe6c11" } } } },
   { "id": "hits_hd", "name": "Hits HD", "category": "Entertainment", "logo": "https://i.imgur.com/YeqyD9W.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd", "drm": { "clearkey": { "keys": { "6d2f8a1c9b5e4c7da1f03e7b9d6c2a55": "37c9835795779f8d848a6119d3270c69" } } } },
-  { "id": "global_trekker", "name": "Global Trekker", "category": "Documentary", "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd", "drm": { "clearkey": { "keys": { "b7a6c5d23f1e4a9d8c721e5d9f4a6b13": "63ca9ad0d88fccb8c667b028f47287ba" } } } },
+  { "id": "global_trekker", "name": "Global Trekker", "category": "Entertainment", "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd", "drm": { "clearkey": { "keys": { "b7a6c5d23f1e4a9d8c721e5d9f4a6b13": "63ca9ad0d88fccb8c667b028f47287ba" } } } },
   { "id": "cctv4", "name": "CCTV4", "category": "News", "logo": "https://i.imgur.com/HBisPOA.png", "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd", "drm": { "clearkey": { "keys": { "b83566836c0d4216b7107bd7b8399366": "32d50635bfd05fbf8189a0e3f6c8db09" } } } },
   { "id": "tv5_monde", "name": "TV5 Monde", "category": "Entertainment", "logo": "https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png", "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd", "drm": { "clearkey": { "keys": { "fba5a720b4a541b286552899ba86e38b": "f63fa50423148bfcbaa58c91dfcffd0e" } } } },
   { "id": "nickelodeon", "name": "Nickelodeon", "category": "Kids", "logo": "http://apkip.tv/logos/UK/Nickelodeon.uk.png", "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd", "drm": { "clearkey": { "keys": { "92032b0e41a543fb9830751273b8debd": "03f8b65e2af785b10d6634735dbe6c11" } } } },
@@ -102,7 +102,7 @@
   {
     "id": "crime_and_investigation",
     "name": "Crime & Investigation",
-    "category": "Documentary",
+    "category": "Entertainment",
     "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",
     "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd",
     "drm": { "clearkey": { "keys": { "21e2843b561c4248b8ea487986a16d33": "db6bb638ccdfc1ad1a3e98d728486801" } } }
@@ -110,7 +110,7 @@
   {
     "id": "tv_maria",
     "name": "TV Maria",
-    "category": "Religious",
+    "category": "Entertainment",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/c/cd/TV_MARIA_PH.png/revision/latest?cb=20200421061144",
     "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd",
     "drm": { "clearkey": { "keys": { "fa3998b9a4de40659725ebc5151250d6": "998f1294b122bbf1a96c1ddc0cbb229f" } } }
@@ -118,7 +118,7 @@
   {
     "id": "wil_tv",
     "name": "Wil TV",
-    "category": "Lifestyle",
+    "category": "Live Tv",
     "logo": "https://static.wikia.nocookie.net/tv-philippines/images/4/43/WILTV_logo.png/revision/latest?cb=20251214021032",
     "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
     "drm": { "clearkey": { "keys": { "b1773d6f982242cdb0f694546a3db26f": "ae9a90dbea78f564eb98fe817909ec9a" } } }
@@ -240,7 +240,7 @@
   {
     "id": "inc-tv",
     "name": "INC TV",
-    "category": "Religious",
+    "category": "Entertainment",
     "logo": "https://i.imgur.com/b6JmGBq.png",
     "url": "http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd"
   },
@@ -275,14 +275,14 @@
   {
     "id": "light-tv",
     "name": "Light TV",
-    "category": "Religious",
+    "category": "Entertainment",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkvWEPQltk-Xq-ixCjPdOGxoqgIlMsc095A&s",
     "url": "http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd"
   },
   {
     "id": "ewtn",
     "name": "EWTN",
-    "category": "Religious",
+    "category": "Entertainment",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s",
     "url": "http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd"
   },
@@ -324,7 +324,7 @@
   {
     "id": "tve-internacional",
     "name": "TVE Internacional",
-    "category": "International",
+    "category": "Entertainment",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest?cb=20220507144624",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd"
   },
@@ -401,21 +401,21 @@
   {
     "id": "tbn-asia",
     "name": "TBN Asia",
-    "category": "Religious",
+    "category": "Entertainment",
     "logo": "https://avpn.asia/wp-content/uploads/2018/07/TBN-Asia-Logo.jpg",
     "url": "http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd"
   },
   {
     "id": "tap-tv",
     "name": "Tap TV",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "https://i.imgur.com/KJaSftF.png",
     "url": "http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd"
   },
   {
     "id": "tap-edge",
     "name": "Tap Edge",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "https://i.imgur.com/3YvDUjL.png",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd"
   },
@@ -464,14 +464,14 @@
   {
     "id": "rjtv-29",
     "name": "RJTV 29",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png",
     "url": "http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd"
   },
   {
     "id": "tv-maria_alt",
     "name": "TV Maria",
-    "category": "Religious",
+    "category": "Entertainment",
     "logo": "https://tvmaria.ph/wp-content/uploads/2021/11/49664812_1960528887328520_738333465484722176_n.png",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd"
   },
@@ -499,21 +499,21 @@
   {
     "id": "oras-ng-himala",
     "name": "Oras Ng Himala",
-    "category": "Religious",
+    "category": "Entertainment",
     "logo": "https://jioswm.org/assets/ministries/onh-730979c3f694e6ba49c8fc43562e04e72f002697bf08e5c8854f3b71aac56676.png",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001175/manifest.mpd"
   },
   {
     "id": "saudi-tv",
     "name": "Saudi TV",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ItYMF-jQgNwrYf1yGCTFpDuFz0T-t9Ba9A&s",
     "url": "http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd"
   },
   {
     "id": "rock-tv-of-manila",
     "name": "Rock TV of Manila",
-    "category": "Music",
+    "category": "Live Tv",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e5/Rock_Manila_Logo_2023.png/revision/latest?cb=20240316065316",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd"
   },
@@ -527,21 +527,21 @@
   {
     "id": "all-tv",
     "name": "ALL TV",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp",
     "url": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd"
   },
   {
     "id": "filam-tv",
     "name": "Filam TV",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "",
     "url": "http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd"
   },
   {
     "id": "lotus-macao",
     "name": "Lotus Macao",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",
     "url": "http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd"
   },
@@ -555,7 +555,7 @@
   {
     "id": "bs10",
     "name": "BS10",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "",
     "url": "http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd"
   },
@@ -569,7 +569,7 @@
   {
     "id": "bs-nittele",
     "name": "BS Nittele",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd"
   },
@@ -640,7 +640,7 @@
   {
     "id": "myx-philippines",
     "name": "MYX Philippines",
-    "category": "Music",
+    "category": "Live Tv",
     "logo": "https://i.imgur.com/CIPTNnT.png",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
@@ -668,7 +668,7 @@
   {
     "id": "metro-channel",
     "name": "Metro Channel",
-    "category": "Lifestyle",
+    "category": "LIFESTYLE",
     "logo": "https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321",
     "url": "http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
@@ -703,7 +703,7 @@
   {
     "id": "cltv-36",
     "name": "CLTV 36",
-    "category": "General",
+    "category": "Entertainment",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759",
     "url": "http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814"
   },
@@ -1031,10 +1031,9 @@
   {
     "id": "ufc-tv",
     "name": "UFC TV",
-    "category": "Collab Channels",
+    "category": "Sports",
     "logo": "https://iyadtv.pages.dev/images/ufc_tv_271.png",
     "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8"
   }
 ]
   
-
