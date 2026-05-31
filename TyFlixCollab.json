@@ -1,20 +1,92 @@
 [
-  { "name": "Star Television", "logo": "https://i.imgur.com/QalEBc8.jpeg", "category": "Collab Channels", "url": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "Sine Plus", "logo": "https://i.imgur.com/FeS4yxK.jpeg", "category": "Collab Channels", "url": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "HYPE TV", "logo": "https://i.imgur.com/NNnsdbD.jpeg", "category": "Collab Channels", "url": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "DREAM TV PH", "logo": "https://i.imgur.com/9rqEsdO.jpeg", "category": "Collab Channels", "url": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "3rsSinePinoy", "logo": "https://i.imgur.com/OCS1l7G.jpeg", "category": "Collab Channels", "url": "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8" },
-  { "name": "3RS TV", "logo": "https://i.imgur.com/50RyQA7.jpeg", "category": "Collab Channels", "url": "https://3rstv.elektriko4444.workers.dev/peanut.m3u8" },
-  { "name": "3rsMovieBox", "logo": "https://i.imgur.com/b4rjf8n.png", "category": "Collab Channels", "url": "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8" },
-  { "name": "3rsCartoon", "logo": "https://i.imgur.com/OMGlC4R.png", "category": "Collab Channels", "url": "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8" },
-  { "name": "HIGHLIGHTS TV", "logo": "https://i.imgur.com/asAaM1v.jpeg", "category": "Collab Channels", "url": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "STAR TV PHILIPPINES", "logo": "https://i.imgur.com/1nrklyJ.jpeg", "category": "Collab Channels", "url": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "SDTV", "logo": "https://i.imgur.com/ZOWTvgq.jpeg", "category": "Collab Channels", "url": "https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "PHILIPPINES TELEVISION NETWORK", "logo": "https://i.imgur.com/nDPA6RL.jpeg", "category": "Collab Channels", "url": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "JPV TV", "logo": "https://i.imgur.com/0F24XGc.jpeg", "category": "Collab Channels", "url": "https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live.m3u8" },
-  { "name": "JPV TV (24/7)", "logo": "https://i.imgur.com/0F24XGc.jpeg", "category": "Collab Channels", "url": "https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8" },
-  { "name": "ASIA FLIX TV", "logo": "https://i.imgur.com/FpaSujC.jpeg", "category": "Collab Channels", "url": "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "DURIAN TV", "logo": "https://i.imgur.com/hT3QCdL.jpeg", "category": "Collab Channels", "url": "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8" },
-  { "name": "DREAMSTAR TV", "logo": "https://i.imgur.com/yCOseiR.jpeg", "category": "Collab Channels", "url": "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8" }
-  { "name": "UFC TV", "logo": "https://iyadtv.pages.dev/images/ufc_tv_271.png", "category": "Collab Channels", "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8" }
+  {
+    "name": "One PH",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd",
+    "logo": "https://i.imgur.com/gkluDe9.png",
+    "category": "news"
+  },
+  {
+    "name": "SARI-SARI",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd",
+    "logo": "https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940",
+    "category": "live"
+  },
+  {
+    "name": "PTV4",
+    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd",
+    "logo": "https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428",
+    "category": "news"
+  },
+  {
+    "name": "TV5",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd",
+    "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126",
+    "category": "live"
+  },
+  {
+    "name": "Kapamilya Channel SD",
+    "url": "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
+    "logo": "https://i.imgur.com/POt9KB8.png",
+    "category": "live"
+  },
+  {
+    "name": "Bilyonaryo Channel",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10",
+    "category": "news"
+  },
+  {
+    "name": "tvN Movies Pinoy",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd",
+    "logo": "https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png",
+    "category": "movies"
+  },
+  {
+    "name": "PBO",
+    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd",
+    "logo": "https://i.imgur.com/61fHpnW.png",
+    "category": "movies"
+  },
+  {
+    "name": "Viva Cinema",
+    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd",
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616",
+    "category": "movies"
+  },
+  {
+    "name": "HBO",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd",
+    "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",
+    "category": "movies"
+  },
+  {
+    "name": "NBA TV Philippines",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
+    "logo": "https://i.imgur.com/x1ZG71v.png",
+    "category": "sports"
+  },
+  {
+    "name": "Nickelodeon",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd",
+    "logo": "http://apkip.tv/logos/UK/Nickelodeon.uk.png",
+    "category": "kids"
+  },
+  {
+    "name": "Cartoon Network",
+    "url": "https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd",
+    "logo": "https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",
+    "category": "kids"
+  },
+  {
+    "name": "Disney Channel",
+    "url": "https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd",
+    "logo": "http://apkip.tv/logos/Canada/DisneyChannel.ca.png",
+    "category": "kids"
+  },
+  {
+    "name": "Red Bull TV",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "logo": "https://i.imgur.com/zyW30IK.png",
+    "category": "sports"
+  }
 ]
