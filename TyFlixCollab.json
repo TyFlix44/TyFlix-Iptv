@@ -16,4 +16,5 @@
   { "name": "ASIA FLIX TV", "logo": "https://i.imgur.com/FpaSujC.jpeg", "category": "Collab Channels", "url": "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8" },
   { "name": "DURIAN TV", "logo": "https://i.imgur.com/hT3QCdL.jpeg", "category": "Collab Channels", "url": "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8" },
   { "name": "DREAMSTAR TV", "logo": "https://i.imgur.com/yCOseiR.jpeg", "category": "Collab Channels", "url": "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8" }
+  { "name": "UFC TV", "logo": "https://iyadtv.pages.dev/images/ufc_tv_271.png", "category": "Collab Channels", "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8" }
 ]
